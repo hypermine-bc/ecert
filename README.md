@@ -13,15 +13,19 @@ For example, in Germany many carpenters still do an apprenticeship tour that las
 
 The trail of credentials and achievements that we generate throughout our lives says something about who we are, and it can open doors that allow us to become who we want to be. Some credentials, such as university degrees, are more important than others. But at the end of the day, all of these credentials represent experiences that are part of our lives.
 
-## Problem with physical certification system
+## Physical certification system
+
+One good thing about the physical certification system is, the user have full control of his physical certificate, like how and where he use them. For example in the above example, a apprentice can carry all of his certificates in his bag and can decied with whome he wants to share with. 
+
+### Problem with physical certification system
 
 When certification systems are not working well, the consequences can be more than just inefficient, such as the cumbersome and expensive process of requesting a university transcript: they can be disastrous, such as when a refugee is unable to provide a certificate of completed study, and is therefore prevented from continuing her education. Digital systems could help in both of these situations.
 
-## We need digital certification system
+## Digital certification system
 
 - Making certificates transferable and more easily verifiable is one advantage of digital systems.
 
-## Problem with digital certification system
+### Problem with digital certification system
 
 - Ideally we should be in charge of our own credentials, but most of the time we have to rely on third parties, such as universities or employers to store, verify, and validate our credentials.
 - Job seekers have to request official transcripts from their alma maters (and typically pay a small fee), and employers still need to call the university if they want to be sure that a transcript wasn’t faked.
