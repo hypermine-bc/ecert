@@ -12,6 +12,8 @@ The trail of credentials and achievements that we generate throughout our lives 
 
 ## Problem with physical certification system
 
+When certification systems are not working well, the consequences can be more than just inefficient, such as the cumbersome and expensive process of requesting a university transcript: they can be disastrous, such as when a refugee is unable to provide a certificate of completed study, and is therefore prevented from continuing her education. Digital systems could help in both of these situations.
+
 ## We need digital certification system
 
 - Making certificates transferable and more easily verifiable is one advantage of digital systems.
@@ -35,16 +37,18 @@ Using the blockchain and strong cryptography, it is now possible to create a cer
 
 The blockchain is best known for its connection to the cryptocurrency bitcoin. But in essence it is a just a distributed ledger to record transactions. What makes it special is that it is durable, time-stamped, transparent, and decentralized. Those characteristics are equally useful for managing financial transactions, as for a system of reputation. In fact you can think of reputation as a type of currency for social capital, rather than financial capital.
 
-## Solution
-
 ## Actors
 
-- Certificate schema: describes the data standard for digital certificates. - [open badges specification ](https://www.imsglobal.org/sites/default/files/Badges/OBv2p0Final/index.html)
-- Certificate issuer: issues a certificate by broadcasting a transaction from the issuing institution’s address to a recipient’s address with the hash embedded
-- Certificate verifier: used to display and verify digital certificates after they have been issued.
+- **Certificate schema (CS)**: describes the data standard for digital certificates. - [open badges specification ](https://www.imsglobal.org/sites/default/files/Badges/OBv2p0Final/index.html)
+- **Certificate issuer (CI)**: issues a certificate by broadcasting a transaction from the issuing institution’s address to a recipient’s address with the hash embedded
+- **Certificate verifier (CV)**: used to display and verify digital certificates after they have been issued.
 
 ## How it works
 
+- CI create a digital file (CS) that contains some basic information such as the name of the recipient, the name of the issuer, an issue date, etc. 
+- CI then sign the contents of the certificate using a private key, and append that signature to the certificate itself. 
+- CI create a hash use his private key again to create a record on the blockchain -  that states he issued a certain certificate to a certain person on a certain date. 
+- It possible to verify (by CV) who a certificate was issued to, by whom, and validate the content of the certificate itself.
 
 ## Advantages
 
@@ -62,5 +66,6 @@ The blockchain is best known for its connection to the cryptocurrency bitcoin. B
 - https://www.blockcerts.org/
 - https://peerj.com/articles/cs-266.pdf
 - http://certificates.media.mit.edu/
-- https://blockeducate.com/services/blockchain-for-education/#:~:text=Issued%20Blockchain%2Dbased%20academic%20certificates,no%20single%20point%20of%20failure.
+- https://blockeducate.com/services/blockchain-for-education/#:~:text=Issued%20Blockchain%2Dbased%20academic%20certificates,no%20single%20point%20of%20failure
 - https://wiki.mozilla.org/images/b/b1/OpenBadges-Working-Paper_092011.pdf
+- https://www.imsglobal.org/sites/default/files/Badges/OBv2p0Final/index.html
