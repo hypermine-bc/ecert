@@ -7,6 +7,10 @@ The idea is taken from this blog: https://medium.com/mit-media-lab/certificates-
 
 ## We need certifications
 
+Document verification is a complex domain that involves various challenging and tedious processes to authenticate. Moreover various types of documents for instance banking documents, government documents, transaction documents, educational certificates etc. might involve customized verification and authentication practices. The content for each type vary significantly, hence requires to be dealt in a distinct manner. For students, educational certificates are the most important documents issued by their universities.
+
+ However, as the issuing process is not that transparent and verifiable, fake certificates can be easily created. A skilfully generated fake certificate is always hard to detect and can be treated as the original. With the increase of forged documents, credibility of both the document holder and the issuing authority is jeopardized. 
+
 When we lived in small tight-knit communities, people knew whom they could turn to when they needed an expert. However, as we started moving around more and our lives and networks grew, we needed to come up with portable ways to signal our expertise to new acquaintances. 
 
 For example, in Germany many carpenters still do an apprenticeship tour that lasts no less than three years and one day. They carry a small book in which they collect stamps and references from the master carpenters with whom they work along the way. The carpenter’s traditional (and now hipster) outfit, the book of stamps they carry, and — if all goes well — the certificate of acceptance into the carpenter guild are proof that here is a man or woman you can trust to build your house.
@@ -15,10 +19,25 @@ The trail of credentials and achievements that we generate throughout our lives 
 
 ## Physical certification system
 
+Academic certificates are highly esteemed as they serve as an indicator of the human capital of their bearers.
+Human capital refers to the skills, competencies, knowledge and aptitudes achieved through education. Academic
+qualifications are particularly important in employment situations as they serve as a guarantee of not just the knowledge,
+expertise and skills of the holders but also of their abilities, reliability and dedication. From the perspective of the
+bearers, found a positive correlation between educational attainment levels and better employment prospects and
+economic security. Academic qualifications are deemed to be genuine when they are conferred by a
+university that is legally authorized to award such certificates. 
+
 One good thing about the physical certification system is, the user have full control of his physical certificate, like how and where he use them. For example in the above example, a apprentice can carry all of his certificates in his bag and can decied with whome he wants to share with. 
 
 ### Problem with physical certification system
 
+Because they are so valuable, people often lie about their academic qualifications by producing fake certificates. 
+ - [In United States there are currently 2 million fake degree certificates](https://sci-hub.tw/10.2307/25511352) in circulation and 300 unauthorized universities operating. 
+ - [United Sates has the highest number of fake institutions in the world followed by the United Kingdom which has about 270 fake institutes](https://www.esrcheck.com/file/Verifile-Accredibase_Diploma-Mills.pdf).
+ - A [2017 report](https://www.inc.com/jt-odonnell/staggering-85-of-job-applicants-lying-on-resumes-.html) found a staggering 85% of employers have caught candidates lying on their CVs – a marked rise from 66% in 2012
+- [58% of Employers Have Caught a Lie on a Resume](http://press.careerbuilder.com/2014-08-07-Fifty-eight-Percent-of-Employers-Have-Caught-a-Lie-on-a-Resume-According-to-a-New-CareerBuilder-Survey)
+- [Academic certificate fraud costs employers about $ 600 billion every year](https://sci-hub.tw/10.5296/jse.v5i2.7456). 
+ 
 When certification systems are not working well, the consequences can be more than just inefficient, such as the cumbersome and expensive process of requesting a university transcript: they can be disastrous, such as when a refugee is unable to provide a certificate of completed study, and is therefore prevented from continuing her education. Digital systems could help in both of these situations.
 
 ## Digital certification system
@@ -39,9 +58,18 @@ There are many advantages for recipients to have more control over the certifica
 
 ## Need of Blockchain technology for building such system
 
-Using the blockchain and strong cryptography, it is now possible to create a certification infrastructure that puts us in control of the full record of our achievements and accomplishments. It will allow us to share a digital degree with an employer while giving the employer complete trust that the degree was in fact issued to the person presenting it.
+Blockchain technology is not only a single technique, it is a combination of many techniques such as cryptography,
+mathematics, algorithms and distributed consensus algorithms. Using the blockchain and strong cryptography, it is now possible to create a certification infrastructure that puts us in control of the full record of our achievements and accomplishments. It will allow us to share a digital degree with an employer while giving the employer complete trust that the degree was in fact issued to the person presenting it.
 
 The blockchain is best known for its connection to the cryptocurrency bitcoin. But in essence it is a just a distributed ledger to record transactions. What makes it special is that it is durable, time-stamped, transparent, and decentralized. Those characteristics are equally useful for managing financial transactions, as for a system of reputation. In fact you can think of reputation as a type of currency for social capital, rather than financial capital.
+
+## Related work
+
+- http://kmi.open.ac.uk/
+- http://www.blockcerts.org/
+- https://smartcert.ca/en/
+- https://www.linkedin.com/company/recordskeeper
+- 
 
 ## Actors
 
