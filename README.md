@@ -1,6 +1,9 @@
 # ecert
 Decentralised educational certificate management system
 
+## Credit and references 
+
+The idea is taken from this blog: https://medium.com/mit-media-lab/certificates-reputation-and-the-blockchain-aee03622426f
 
 ## We need certifications
 
