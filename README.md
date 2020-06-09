@@ -7,10 +7,6 @@ The idea is taken from this blog: https://medium.com/mit-media-lab/certificates-
 
 ## We need certifications
 
-Document verification is a complex domain that involves various challenging and tedious processes to authenticate. Moreover various types of documents for instance banking documents, government documents, transaction documents, educational certificates etc. might involve customized verification and authentication practices. The content for each type vary significantly, hence requires to be dealt in a distinct manner. For students, educational certificates are the most important documents issued by their universities.
-
- However, as the issuing process is not that transparent and verifiable, fake certificates can be easily created. A skilfully generated fake certificate is always hard to detect and can be treated as the original. With the increase of forged documents, credibility of both the document holder and the issuing authority is jeopardized. 
-
 When we lived in small tight-knit communities, people knew whom they could turn to when they needed an expert. However, as we started moving around more and our lives and networks grew, we needed to come up with portable ways to signal our expertise to new acquaintances. 
 
 For example, in Germany many carpenters still do an apprenticeship tour that lasts no less than three years and one day. They carry a small book in which they collect stamps and references from the master carpenters with whom they work along the way. The carpenter’s traditional (and now hipster) outfit, the book of stamps they carry, and — if all goes well — the certificate of acceptance into the carpenter guild are proof that here is a man or woman you can trust to build your house.
@@ -30,6 +26,10 @@ university that is legally authorized to award such certificates.
 One good thing about the physical certification system is, the user have full control of his physical certificate, like how and where he use them. For example in the above example, a apprentice can carry all of his certificates in his bag and can decied with whome he wants to share with. 
 
 ### Problem with physical certification system
+
+Document verification is a complex domain that involves various challenging and tedious processes to authenticate. Moreover various types of documents for instance banking documents, government documents, transaction documents, educational certificates etc. might involve customized verification and authentication practices. The content for each type vary significantly, hence requires to be dealt in a distinct manner. For students, educational certificates are the most important documents issued by their universities.
+
+ However, as the issuing process is not that transparent and verifiable, fake certificates can be easily created. A skilfully generated fake certificate is always hard to detect and can be treated as the original. With the increase of forged documents, credibility of both the document holder and the issuing authority is jeopardized. 
 
 Because they are so valuable, people often lie about their academic qualifications by producing fake certificates. 
  - [In United States there are currently 2 million fake degree certificates](https://sci-hub.tw/10.2307/25511352) in circulation and 300 unauthorized universities operating. 
