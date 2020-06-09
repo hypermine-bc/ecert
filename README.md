@@ -23,7 +23,6 @@ When certification systems are not working well, the consequences can be more th
 - Ideally we should be in charge of our own credentials, but most of the time we have to rely on third parties, such as universities or employers to store, verify, and validate our credentials.
 - Job seekers have to request official transcripts from their alma maters (and typically pay a small fee), and employers still need to call the university if they want to be sure that a transcript wasn’t faked.
 - It’s a slow and complicated process, which is one reason why degree [fraud is a real issue](https://www.nytimes.com/2007/04/27/us/27mit.html).
-- 
 - fake certification
 - counterfeiting in certifications
 
